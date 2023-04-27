@@ -1,0 +1,22 @@
+{
+  "name": "QCNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of QCNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mingchaogui@iclouod.com/QCNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mingchaogui@iclouod.com": "hito.cai@mintinglabs.com"
+  },
+  "source": {
+    "git": "https://github.com/mingchaogui@iclouod.com/QCNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QCNetworking/Classes/**/*"
+}

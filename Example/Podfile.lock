@@ -1,0 +1,16 @@
+PODS:
+  - QCNetworking (0.1.0)
+
+DEPENDENCIES:
+  - QCNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  QCNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QCNetworking: 511b981a608c74fd946c21082054fa222753d1ff
+
+PODFILE CHECKSUM: 2a375fccce9d516bf9945e6d64ad17522ed22798
+
+COCOAPODS: 1.12.1
