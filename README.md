@@ -22,7 +22,7 @@ pod 'QCNetworking'
 
 ## Author
 
-mingchaogui@iclouod.com, hito.cai@mintinglabs.com
+hito.cai@mintinglabs.com
 
 ## License
 
